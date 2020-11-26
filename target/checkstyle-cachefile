@@ -1,0 +1,4 @@
+#Fri Nov 06 11:51:23 GMT 2020
+configuration*?=C32BFA018F61245DC454140629748E7CFC13DCB6
+module-resource*?\:checkstyle-xpath-suppressions.xml=5EDEE40350C8280A50CD921AAD2D3CBC9F4BFDAC
+module-resource*?\:checkstyle-suppressions.xml=524B7BBE357446500743C7F3E7EA427D05D38016
